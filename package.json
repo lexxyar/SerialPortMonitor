@@ -1,0 +1,15 @@
+{
+  "name": "serialportmonitor",
+  "version": "1.0.0",
+  "description": "Serial Port monitor via NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aleksey Komov",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^8.0.7"
+  }
+}
